@@ -24,7 +24,7 @@ class AnaSayfa extends StatelessWidget {
                 cursorHeight: 15,
                 decoration: const InputDecoration(
                   prefixIcon: Icon(Icons.message),
-                  prefixIconColor: Colors.purple,
+                  prefixIconColor: Colors.orange,
                   border: OutlineInputBorder(),
                 ),
               ),
